@@ -62,8 +62,6 @@ Backend runs on:
 
 
 
-)
-
 🧪 API Endpoints
 | Method | Endpoint     | Description     |
 | ------ | ------------ | --------------- |
