@@ -1,0 +1,16 @@
+
+# ---------------------------
+# Node / Backend
+# ---------------------------
+backend/node_modules/
+# ignore image
+backend/uploads/
+
+
+# ---------------------------
+# React / Frontend
+# ---------------------------
+frontend/node_modules/
+frontend/src/images/
+
+
